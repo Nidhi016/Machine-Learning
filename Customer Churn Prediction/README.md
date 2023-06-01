@@ -10,6 +10,6 @@ Usually Company,calculates the churn rate as the percentage of customers lost th
 2. The value of recurring business lost.
 3. The percentage of recurring value lost.
 
-I have Performed detailed Exploratory data analysis (EDA) on Credit Card Dataset with Visualization.
+I have performed detailed Exploratory data analysis (EDA) on Credit Card Dataset with Visualization.
 Extracted different insights from data that will help to find the behavior of the churned customer. It will help to provide the better services and turn customers' decisions in the opposite direction.
 The goal was to predict customer churn from the dataset and gain some insights on how the bank can reduce the customers who have churned.
